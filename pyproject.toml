@@ -1,0 +1,21 @@
+[project]
+name = "cpf_utils"
+version = "1.1.0"
+description = "Validação e formatação de documentos brasileiros (CPF, CNPJ, CEP, RG)"
+authors = [
+    { name="Raul" }
+]
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/seuusuario/cpf_utils"
+Documentation = "https://seuusuario.github.io/cpf_utils"
+Repository = "https://github.com/seuusuario/cpf_utils"
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"

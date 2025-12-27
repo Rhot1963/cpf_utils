@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: cpf_utils
+Version: 1.1.0
+Summary: Validação e formatação de documentos brasileiros (CPF, CNPJ, CEP, RG)
+Author: Raul
+License: MIT
+Project-URL: Homepage, https://github.com/seuusuario/cpf_utils
+Project-URL: Documentation, https://seuusuario.github.io/cpf_utils
+Project-URL: Repository, https://github.com/seuusuario/cpf_utils
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+<p align="center">
+  <img src="https://img.shields.io/pypi/v/cpf_utils.svg" alt="PyPI version">
+  <img src="https://img.shields.io/github/license/seuusuario/cpf_utils.svg" alt="License">
+  <img src="https://img.shields.io/github/actions/workflow/status/seuusuario/cpf_utils/tests.yml" alt="Build Status">
+  <img src="https://img.shields.io/pypi/dm/cpf_utils.svg" alt="Downloads">
+</p>
